@@ -1,0 +1,2172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BeTheme
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: beonepage 1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-21 17:13+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: beonepage-pro-plugin.php:51
+msgid "none"
+msgstr ""
+
+#: beonepage-pro-plugin.php:52 inc/cmb2/CMB.php:86
+msgid "flash"
+msgstr ""
+
+#: beonepage-pro-plugin.php:53 inc/cmb2/CMB.php:87
+msgid "pulse"
+msgstr ""
+
+#: beonepage-pro-plugin.php:54 inc/cmb2/CMB.php:88
+msgid "rubberBand"
+msgstr ""
+
+#: beonepage-pro-plugin.php:55 inc/cmb2/CMB.php:89
+msgid "shake"
+msgstr ""
+
+#: beonepage-pro-plugin.php:56 inc/cmb2/CMB.php:90
+msgid "swing"
+msgstr ""
+
+#: beonepage-pro-plugin.php:57 inc/cmb2/CMB.php:91
+msgid "tada"
+msgstr ""
+
+#: beonepage-pro-plugin.php:58 inc/cmb2/CMB.php:92
+msgid "wobble"
+msgstr ""
+
+#: beonepage-pro-plugin.php:59 inc/cmb2/CMB.php:93
+msgid "jello"
+msgstr ""
+
+#: beonepage-pro-plugin.php:60 inc/cmb2/CMB.php:94
+msgid "bounce"
+msgstr ""
+
+#: beonepage-pro-plugin.php:61 inc/cmb2/CMB.php:95
+msgid "bounceIn"
+msgstr ""
+
+#: beonepage-pro-plugin.php:62 inc/cmb2/CMB.php:96
+msgid "bounceInLeft"
+msgstr ""
+
+#: beonepage-pro-plugin.php:63 inc/cmb2/CMB.php:97
+msgid "bounceInRight"
+msgstr ""
+
+#: beonepage-pro-plugin.php:64 inc/cmb2/CMB.php:98
+msgid "bounceInUp"
+msgstr ""
+
+#: beonepage-pro-plugin.php:65 inc/cmb2/CMB.php:99
+msgid "bounceInDown"
+msgstr ""
+
+#: beonepage-pro-plugin.php:66 inc/cmb2/CMB.php:100
+msgid "FadeIn"
+msgstr ""
+
+#: beonepage-pro-plugin.php:67 inc/cmb2/CMB.php:101
+msgid "FadeInLeft"
+msgstr ""
+
+#: beonepage-pro-plugin.php:68 inc/cmb2/CMB.php:102
+msgid "FadeInRight"
+msgstr ""
+
+#: beonepage-pro-plugin.php:69 inc/cmb2/CMB.php:103
+msgid "FadeInUp"
+msgstr ""
+
+#: beonepage-pro-plugin.php:70 inc/cmb2/CMB.php:104
+msgid "FadeInDown"
+msgstr ""
+
+#: beonepage-pro-plugin.php:71 inc/cmb2/CMB.php:105
+msgid "flipInX"
+msgstr ""
+
+#: beonepage-pro-plugin.php:72 inc/cmb2/CMB.php:106
+msgid "flipInY"
+msgstr ""
+
+#: beonepage-pro-plugin.php:73 inc/cmb2/CMB.php:107
+msgid "slideInLeft"
+msgstr ""
+
+#: beonepage-pro-plugin.php:74 inc/cmb2/CMB.php:108
+msgid "slideInRight"
+msgstr ""
+
+#: beonepage-pro-plugin.php:75 inc/cmb2/CMB.php:109
+msgid "slideInUp"
+msgstr ""
+
+#: beonepage-pro-plugin.php:76 inc/cmb2/CMB.php:110
+msgid "slideInDown"
+msgstr ""
+
+#: beonepage-pro-plugin.php:77 inc/cmb2/CMB.php:111
+msgid "zoomIn"
+msgstr ""
+
+#: beonepage-pro-plugin.php:78 inc/cmb2/CMB.php:112
+msgid "zoomInLeft"
+msgstr ""
+
+#: beonepage-pro-plugin.php:79 inc/cmb2/CMB.php:113
+msgid "zoomInRight"
+msgstr ""
+
+#: beonepage-pro-plugin.php:80 inc/cmb2/CMB.php:114
+msgid "zoomInUp"
+msgstr ""
+
+#: beonepage-pro-plugin.php:81 inc/cmb2/CMB.php:115
+msgid "zoomInDown"
+msgstr ""
+
+#: elementor/elementor-blog.php:13
+msgid "BeOne Blog"
+msgstr ""
+
+#: elementor/elementor-blog.php:22
+msgid "Blog Option"
+msgstr ""
+
+#: elementor/elementor-blog.php:37 elementor/elementor-contact.php:37
+#: elementor/elementor-custom.php:38
+#: elementor/elementor-icon-service-img.php:506
+#: elementor/elementor-icon-service.php:473
+#: elementor/elementor-portfolio.php:40
+#: elementor/elementor-pricing-table.php:40
+#: elementor/elementor-pricing-table.php:549
+#: elementor/elementor-process.php:485 elementor/elementor-team.php:38
+#: elementor/elementor-team.php:547 elementor/elementor-testimonial.php:38
+#: elementor/elementor-widget.php:38 inc/cmb2/CMB.php:339 inc/cmb2/CMB.php:403
+#: inc/cmb2/CMB.php:522 inc/cmb2/CMB.php:587 inc/cmb2/CMB.php:768
+msgid "Title"
+msgstr ""
+
+#: elementor/elementor-blog.php:40 elementor/elementor-contact.php:40
+#: elementor/elementor-custom.php:41 elementor/elementor-hor-promo.php:41
+#: elementor/elementor-icon-service-img.php:44
+#: elementor/elementor-icon-service.php:42
+#: elementor/elementor-portfolio.php:43
+#: elementor/elementor-pricing-table.php:43 elementor/elementor-process.php:41
+#: elementor/elementor-skill-bar.php:41 elementor/elementor-slider.php:73
+#: elementor/elementor-team.php:41 elementor/elementor-testimonial.php:41
+#: elementor/elementor-ver-promo.php:40 elementor/elementor-widget.php:41
+msgid "Enter Title"
+msgstr ""
+
+#: elementor/elementor-blog.php:55 elementor/elementor-contact.php:55
+#: elementor/elementor-custom.php:56 elementor/elementor-portfolio.php:57
+#: elementor/elementor-pricing-table.php:58 elementor/elementor-team.php:56
+#: elementor/elementor-testimonial.php:59 elementor/elementor-widget.php:56
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/elementor-blog.php:58 elementor/elementor-contact.php:58
+#: elementor/elementor-custom.php:59
+#: elementor/elementor-icon-service-img.php:61
+#: elementor/elementor-icon-service.php:59
+#: elementor/elementor-portfolio.php:60
+#: elementor/elementor-pricing-table.php:61 elementor/elementor-process.php:59
+#: elementor/elementor-skill-bar.php:58 elementor/elementor-team.php:59
+#: elementor/elementor-testimonial.php:62 elementor/elementor-widget.php:59
+msgid "Enter Sub Title"
+msgstr ""
+
+#: elementor/elementor-blog.php:72 elementor/elementor-contact.php:72
+#: elementor/elementor-custom.php:73
+#: elementor/elementor-icon-service-img.php:76
+#: elementor/elementor-icon-service.php:73
+#: elementor/elementor-portfolio.php:74
+#: elementor/elementor-pricing-table.php:75 elementor/elementor-process.php:73
+#: elementor/elementor-skill-bar.php:72 elementor/elementor-team.php:74
+#: elementor/elementor-testimonial.php:76 elementor/elementor-widget.php:73
+msgid "Caption Animation"
+msgstr ""
+
+#: elementor/elementor-blog.php:89 elementor/elementor-contact.php:89
+#: elementor/elementor-custom.php:90 elementor/elementor-fun-fact.php:36
+#: elementor/elementor-hor-promo.php:192
+#: elementor/elementor-icon-service-img.php:93
+#: elementor/elementor-icon-service.php:90
+#: elementor/elementor-portfolio.php:91
+#: elementor/elementor-pricing-table.php:92 elementor/elementor-process.php:90
+#: elementor/elementor-skill-bar.php:89 elementor/elementor-slider.php:113
+#: elementor/elementor-slider.php:487 elementor/elementor-subscribe.php:199
+#: elementor/elementor-team.php:92 elementor/elementor-testimonial.php:93
+#: elementor/elementor-twitter.php:225 elementor/elementor-ver-promo.php:192
+#: elementor/elementor-widget.php:91
+msgid "Font Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:112 elementor/elementor-contact.php:112
+#: elementor/elementor-icon-service-img.php:116
+#: elementor/elementor-icon-service.php:113
+#: elementor/elementor-portfolio.php:114
+#: elementor/elementor-pricing-table.php:115
+#: elementor/elementor-process.php:113
+msgid "Separator Line Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:135 elementor/elementor-contact.php:135
+#: elementor/elementor-icon-service-img.php:139
+#: elementor/elementor-icon-service.php:137
+#: elementor/elementor-portfolio.php:137 elementor/elementor-process.php:136
+msgid "Separator Circle Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:166 elementor/elementor-client.php:44
+#: elementor/elementor-contact.php:160 elementor/elementor-custom.php:161
+#: elementor/elementor-fun-fact.php:84 elementor/elementor-hor-promo.php:217
+#: elementor/elementor-icon-service-img.php:222
+#: elementor/elementor-icon-service.php:186
+#: elementor/elementor-portfolio.php:186
+#: elementor/elementor-pricing-table.php:237
+#: elementor/elementor-process.php:208 elementor/elementor-skill-bar.php:184
+#: elementor/elementor-subscribe.php:224 elementor/elementor-team.php:215
+#: elementor/elementor-testimonial.php:191 elementor/elementor-twitter.php:273
+#: elementor/elementor-ver-promo.php:217 elementor/elementor-widget.php:162
+msgid "Background"
+msgstr ""
+
+#: elementor/elementor-blog.php:170 elementor/elementor-client.php:48
+#: elementor/elementor-contact.php:164 elementor/elementor-custom.php:165
+#: elementor/elementor-fun-fact.php:88 elementor/elementor-hor-promo.php:221
+#: elementor/elementor-icon-service-img.php:226
+#: elementor/elementor-icon-service.php:190
+#: elementor/elementor-portfolio.php:190
+#: elementor/elementor-pricing-table.php:241
+#: elementor/elementor-process.php:212 elementor/elementor-skill-bar.php:188
+#: elementor/elementor-subscribe.php:228 elementor/elementor-team.php:219
+#: elementor/elementor-testimonial.php:195 elementor/elementor-twitter.php:277
+#: elementor/elementor-ver-promo.php:221 elementor/elementor-widget.php:166
+msgid "Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:174 elementor/elementor-client.php:52
+#: elementor/elementor-contact.php:168 elementor/elementor-custom.php:169
+#: elementor/elementor-fun-fact.php:92 elementor/elementor-hor-promo.php:225
+#: elementor/elementor-icon-service-img.php:162
+#: elementor/elementor-icon-service-img.php:230
+#: elementor/elementor-icon-service.php:194
+#: elementor/elementor-portfolio.php:194 elementor/elementor-portfolio.php:625
+#: elementor/elementor-pricing-table.php:245
+#: elementor/elementor-process.php:216 elementor/elementor-skill-bar.php:193
+#: elementor/elementor-slider.php:50 elementor/elementor-slider.php:645
+#: elementor/elementor-slider.php:658 elementor/elementor-subscribe.php:232
+#: elementor/elementor-team.php:223 elementor/elementor-testimonial.php:199
+#: elementor/elementor-twitter.php:281 elementor/elementor-ver-promo.php:225
+#: elementor/elementor-widget.php:170 inc/cmb2/CMB.php:244
+#: inc/cmb2/CMB.php:250
+msgid "Image"
+msgstr ""
+
+#: elementor/elementor-blog.php:178 elementor/elementor-contact.php:172
+#: elementor/elementor-custom.php:173
+#: elementor/elementor-icon-service-img.php:234
+#: elementor/elementor-icon-service.php:198
+#: elementor/elementor-portfolio.php:198
+#: elementor/elementor-pricing-table.php:249
+#: elementor/elementor-process.php:220 elementor/elementor-skill-bar.php:197
+#: elementor/elementor-slider.php:649 elementor/elementor-team.php:227
+#: elementor/elementor-testimonial.php:203 elementor/elementor-twitter.php:285
+#: elementor/elementor-ver-promo.php:229 elementor/elementor-widget.php:174
+#: inc/cmb2/CMB.php:138 inc/cmb2/CMB.php:202 inc/cmb2/CMB.php:245
+msgid "Video"
+msgstr ""
+
+#: elementor/elementor-blog.php:210 elementor/elementor-client.php:81
+#: elementor/elementor-contact.php:190 elementor/elementor-custom.php:191
+#: elementor/elementor-fun-fact.php:110 elementor/elementor-hor-promo.php:244
+#: elementor/elementor-icon-service-img.php:253
+#: elementor/elementor-icon-service.php:218
+#: elementor/elementor-portfolio.php:217
+#: elementor/elementor-pricing-table.php:268
+#: elementor/elementor-process.php:239 elementor/elementor-skill-bar.php:216
+#: elementor/elementor-skill-bar.php:243 elementor/elementor-slider.php:216
+#: elementor/elementor-subscribe.php:251 elementor/elementor-team.php:246
+#: elementor/elementor-testimonial.php:223 elementor/elementor-twitter.php:305
+#: elementor/elementor-ver-promo.php:248 elementor/elementor-widget.php:194
+msgid "Background Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:237 elementor/elementor-client.php:108
+#: elementor/elementor-contact.php:217 elementor/elementor-custom.php:218
+#: elementor/elementor-fun-fact.php:137 elementor/elementor-hor-promo.php:271
+#: elementor/elementor-icon-service-img.php:280
+#: elementor/elementor-icon-service.php:245
+#: elementor/elementor-portfolio.php:244
+#: elementor/elementor-pricing-table.php:296
+#: elementor/elementor-process.php:266 elementor/elementor-skill-bar.php:270
+#: elementor/elementor-slider.php:243 elementor/elementor-subscribe.php:278
+#: elementor/elementor-team.php:273 elementor/elementor-testimonial.php:250
+#: elementor/elementor-twitter.php:332 elementor/elementor-ver-promo.php:275
+#: elementor/elementor-widget.php:221
+msgid "Bakground Image"
+msgstr ""
+
+#: elementor/elementor-blog.php:259 elementor/elementor-client.php:130
+#: elementor/elementor-contact.php:239 elementor/elementor-custom.php:240
+#: elementor/elementor-fun-fact.php:159 elementor/elementor-hor-promo.php:293
+#: elementor/elementor-icon-service-img.php:302
+#: elementor/elementor-icon-service.php:267
+#: elementor/elementor-portfolio.php:266
+#: elementor/elementor-pricing-table.php:318
+#: elementor/elementor-process.php:288 elementor/elementor-skill-bar.php:292
+#: elementor/elementor-slider.php:265 elementor/elementor-subscribe.php:300
+#: elementor/elementor-team.php:295 elementor/elementor-testimonial.php:272
+#: elementor/elementor-twitter.php:354 elementor/elementor-ver-promo.php:297
+#: elementor/elementor-widget.php:243
+msgid "Background Repeat"
+msgstr ""
+
+#: elementor/elementor-blog.php:263 elementor/elementor-client.php:134
+#: elementor/elementor-contact.php:243 elementor/elementor-custom.php:244
+#: elementor/elementor-fun-fact.php:163 elementor/elementor-hor-promo.php:297
+#: elementor/elementor-icon-service-img.php:309
+#: elementor/elementor-icon-service.php:274
+#: elementor/elementor-portfolio.php:270
+#: elementor/elementor-pricing-table.php:322
+#: elementor/elementor-process.php:292 elementor/elementor-skill-bar.php:296
+#: elementor/elementor-slider.php:269 elementor/elementor-subscribe.php:304
+#: elementor/elementor-team.php:299 elementor/elementor-testimonial.php:276
+#: elementor/elementor-twitter.php:358 elementor/elementor-ver-promo.php:301
+#: elementor/elementor-widget.php:247
+msgid "No Repeat"
+msgstr ""
+
+#: elementor/elementor-blog.php:264 elementor/elementor-client.php:135
+#: elementor/elementor-contact.php:244 elementor/elementor-custom.php:245
+#: elementor/elementor-fun-fact.php:164 elementor/elementor-hor-promo.php:298
+#: elementor/elementor-icon-service-img.php:310
+#: elementor/elementor-icon-service.php:275
+#: elementor/elementor-portfolio.php:271
+#: elementor/elementor-pricing-table.php:323
+#: elementor/elementor-process.php:293 elementor/elementor-skill-bar.php:297
+#: elementor/elementor-slider.php:270 elementor/elementor-subscribe.php:305
+#: elementor/elementor-team.php:300 elementor/elementor-testimonial.php:277
+#: elementor/elementor-twitter.php:359 elementor/elementor-ver-promo.php:302
+#: elementor/elementor-widget.php:248
+msgid "Repeat All"
+msgstr ""
+
+#: elementor/elementor-blog.php:265 elementor/elementor-client.php:136
+#: elementor/elementor-contact.php:245 elementor/elementor-custom.php:246
+#: elementor/elementor-fun-fact.php:165 elementor/elementor-hor-promo.php:299
+#: elementor/elementor-icon-service-img.php:311
+#: elementor/elementor-icon-service.php:276
+#: elementor/elementor-portfolio.php:272
+#: elementor/elementor-pricing-table.php:324
+#: elementor/elementor-process.php:294 elementor/elementor-skill-bar.php:298
+#: elementor/elementor-slider.php:271 elementor/elementor-subscribe.php:306
+#: elementor/elementor-team.php:301 elementor/elementor-testimonial.php:278
+#: elementor/elementor-twitter.php:360 elementor/elementor-ver-promo.php:303
+#: elementor/elementor-widget.php:249
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: elementor/elementor-blog.php:266 elementor/elementor-client.php:137
+#: elementor/elementor-contact.php:246 elementor/elementor-custom.php:247
+#: elementor/elementor-icon-service-img.php:312
+#: elementor/elementor-icon-service.php:277
+#: elementor/elementor-portfolio.php:273
+#: elementor/elementor-pricing-table.php:325
+#: elementor/elementor-process.php:295 elementor/elementor-skill-bar.php:299
+#: elementor/elementor-subscribe.php:307 elementor/elementor-team.php:302
+#: elementor/elementor-testimonial.php:279 elementor/elementor-twitter.php:361
+#: elementor/elementor-ver-promo.php:304 elementor/elementor-widget.php:250
+msgid "Repeat Vertically"
+msgstr ""
+
+#: elementor/elementor-blog.php:285 elementor/elementor-client.php:156
+#: elementor/elementor-contact.php:265 elementor/elementor-custom.php:266
+#: elementor/elementor-fun-fact.php:185 elementor/elementor-hor-promo.php:319
+#: elementor/elementor-icon-service-img.php:328
+#: elementor/elementor-icon-service.php:293
+#: elementor/elementor-portfolio.php:292
+#: elementor/elementor-pricing-table.php:344
+#: elementor/elementor-process.php:314 elementor/elementor-skill-bar.php:318
+#: elementor/elementor-slider.php:291 elementor/elementor-subscribe.php:326
+#: elementor/elementor-team.php:321 elementor/elementor-testimonial.php:298
+#: elementor/elementor-twitter.php:380 elementor/elementor-ver-promo.php:323
+#: elementor/elementor-widget.php:269
+msgid "Background Position"
+msgstr ""
+
+#: elementor/elementor-blog.php:289 elementor/elementor-client.php:160
+#: elementor/elementor-contact.php:269 elementor/elementor-custom.php:270
+#: elementor/elementor-fun-fact.php:189 elementor/elementor-hor-promo.php:323
+#: elementor/elementor-icon-service-img.php:335
+#: elementor/elementor-icon-service.php:300
+#: elementor/elementor-portfolio.php:296
+#: elementor/elementor-pricing-table.php:348
+#: elementor/elementor-process.php:318 elementor/elementor-skill-bar.php:322
+#: elementor/elementor-slider.php:295 elementor/elementor-subscribe.php:330
+#: elementor/elementor-team.php:325 elementor/elementor-testimonial.php:302
+#: elementor/elementor-twitter.php:384 elementor/elementor-ver-promo.php:327
+#: elementor/elementor-widget.php:273
+msgid "Left Top"
+msgstr ""
+
+#: elementor/elementor-blog.php:290 elementor/elementor-client.php:161
+#: elementor/elementor-contact.php:270 elementor/elementor-custom.php:271
+#: elementor/elementor-fun-fact.php:190 elementor/elementor-hor-promo.php:324
+#: elementor/elementor-icon-service-img.php:336
+#: elementor/elementor-icon-service.php:301
+#: elementor/elementor-portfolio.php:297
+#: elementor/elementor-pricing-table.php:349
+#: elementor/elementor-process.php:319 elementor/elementor-skill-bar.php:323
+#: elementor/elementor-slider.php:296 elementor/elementor-subscribe.php:331
+#: elementor/elementor-team.php:326 elementor/elementor-testimonial.php:303
+#: elementor/elementor-twitter.php:385 elementor/elementor-ver-promo.php:328
+#: elementor/elementor-widget.php:274
+msgid "Left Center"
+msgstr ""
+
+#: elementor/elementor-blog.php:291 elementor/elementor-client.php:162
+#: elementor/elementor-contact.php:271 elementor/elementor-custom.php:272
+#: elementor/elementor-fun-fact.php:191 elementor/elementor-hor-promo.php:325
+#: elementor/elementor-icon-service-img.php:337
+#: elementor/elementor-icon-service.php:302
+#: elementor/elementor-portfolio.php:298
+#: elementor/elementor-pricing-table.php:350
+#: elementor/elementor-process.php:320 elementor/elementor-skill-bar.php:324
+#: elementor/elementor-slider.php:297 elementor/elementor-subscribe.php:332
+#: elementor/elementor-team.php:327 elementor/elementor-testimonial.php:304
+#: elementor/elementor-twitter.php:386 elementor/elementor-ver-promo.php:329
+#: elementor/elementor-widget.php:275
+msgid "Left Bottom"
+msgstr ""
+
+#: elementor/elementor-blog.php:292 elementor/elementor-client.php:163
+#: elementor/elementor-contact.php:272 elementor/elementor-custom.php:273
+#: elementor/elementor-fun-fact.php:192 elementor/elementor-hor-promo.php:326
+#: elementor/elementor-icon-service-img.php:338
+#: elementor/elementor-icon-service.php:303
+#: elementor/elementor-portfolio.php:299
+#: elementor/elementor-pricing-table.php:351
+#: elementor/elementor-process.php:321 elementor/elementor-skill-bar.php:325
+#: elementor/elementor-slider.php:298 elementor/elementor-subscribe.php:333
+#: elementor/elementor-team.php:328 elementor/elementor-testimonial.php:305
+#: elementor/elementor-twitter.php:387 elementor/elementor-ver-promo.php:330
+#: elementor/elementor-widget.php:276
+msgid "Right Top"
+msgstr ""
+
+#: elementor/elementor-blog.php:293 elementor/elementor-client.php:164
+#: elementor/elementor-contact.php:273 elementor/elementor-custom.php:274
+#: elementor/elementor-fun-fact.php:193 elementor/elementor-hor-promo.php:327
+#: elementor/elementor-icon-service-img.php:339
+#: elementor/elementor-icon-service.php:304
+#: elementor/elementor-portfolio.php:300
+#: elementor/elementor-pricing-table.php:352
+#: elementor/elementor-process.php:322 elementor/elementor-skill-bar.php:326
+#: elementor/elementor-slider.php:299 elementor/elementor-subscribe.php:334
+#: elementor/elementor-team.php:329 elementor/elementor-testimonial.php:306
+#: elementor/elementor-twitter.php:388 elementor/elementor-ver-promo.php:331
+#: elementor/elementor-widget.php:277
+msgid "Right Center"
+msgstr ""
+
+#: elementor/elementor-blog.php:294 elementor/elementor-client.php:165
+#: elementor/elementor-contact.php:274 elementor/elementor-custom.php:275
+#: elementor/elementor-fun-fact.php:194 elementor/elementor-hor-promo.php:328
+#: elementor/elementor-icon-service-img.php:340
+#: elementor/elementor-icon-service.php:305
+#: elementor/elementor-portfolio.php:301
+#: elementor/elementor-pricing-table.php:353
+#: elementor/elementor-process.php:323 elementor/elementor-skill-bar.php:327
+#: elementor/elementor-slider.php:300 elementor/elementor-subscribe.php:335
+#: elementor/elementor-team.php:330 elementor/elementor-testimonial.php:307
+#: elementor/elementor-twitter.php:389 elementor/elementor-ver-promo.php:332
+#: elementor/elementor-widget.php:278
+msgid "Right Bottom"
+msgstr ""
+
+#: elementor/elementor-blog.php:295 elementor/elementor-client.php:166
+#: elementor/elementor-contact.php:275 elementor/elementor-custom.php:276
+#: elementor/elementor-fun-fact.php:195 elementor/elementor-hor-promo.php:329
+#: elementor/elementor-icon-service-img.php:341
+#: elementor/elementor-icon-service.php:306
+#: elementor/elementor-portfolio.php:302
+#: elementor/elementor-pricing-table.php:354
+#: elementor/elementor-process.php:324 elementor/elementor-skill-bar.php:328
+#: elementor/elementor-slider.php:301 elementor/elementor-subscribe.php:336
+#: elementor/elementor-team.php:331 elementor/elementor-testimonial.php:308
+#: elementor/elementor-twitter.php:390 elementor/elementor-ver-promo.php:333
+#: elementor/elementor-widget.php:279
+msgid "Center Top"
+msgstr ""
+
+#: elementor/elementor-blog.php:296 elementor/elementor-client.php:167
+#: elementor/elementor-contact.php:276 elementor/elementor-custom.php:277
+#: elementor/elementor-fun-fact.php:196 elementor/elementor-hor-promo.php:330
+#: elementor/elementor-icon-service-img.php:342
+#: elementor/elementor-icon-service.php:307
+#: elementor/elementor-portfolio.php:303
+#: elementor/elementor-pricing-table.php:355
+#: elementor/elementor-process.php:325 elementor/elementor-skill-bar.php:329
+#: elementor/elementor-slider.php:302 elementor/elementor-subscribe.php:337
+#: elementor/elementor-team.php:332 elementor/elementor-testimonial.php:309
+#: elementor/elementor-twitter.php:391 elementor/elementor-ver-promo.php:334
+#: elementor/elementor-widget.php:280
+msgid "Center Center"
+msgstr ""
+
+#: elementor/elementor-blog.php:297 elementor/elementor-client.php:168
+#: elementor/elementor-contact.php:277 elementor/elementor-custom.php:278
+#: elementor/elementor-fun-fact.php:197 elementor/elementor-hor-promo.php:331
+#: elementor/elementor-icon-service-img.php:343
+#: elementor/elementor-icon-service.php:308
+#: elementor/elementor-portfolio.php:304
+#: elementor/elementor-pricing-table.php:356
+#: elementor/elementor-process.php:326 elementor/elementor-skill-bar.php:330
+#: elementor/elementor-slider.php:303 elementor/elementor-subscribe.php:338
+#: elementor/elementor-team.php:333 elementor/elementor-testimonial.php:310
+#: elementor/elementor-twitter.php:392 elementor/elementor-ver-promo.php:335
+#: elementor/elementor-widget.php:281
+msgid "Center Bottom"
+msgstr ""
+
+#: elementor/elementor-blog.php:316 elementor/elementor-client.php:188
+#: elementor/elementor-contact.php:296 elementor/elementor-custom.php:297
+#: elementor/elementor-fun-fact.php:216 elementor/elementor-hor-promo.php:350
+#: elementor/elementor-icon-service-img.php:359
+#: elementor/elementor-icon-service.php:324
+#: elementor/elementor-portfolio.php:323
+#: elementor/elementor-pricing-table.php:375
+#: elementor/elementor-process.php:345 elementor/elementor-skill-bar.php:351
+#: elementor/elementor-slider.php:322 elementor/elementor-subscribe.php:357
+#: elementor/elementor-team.php:353 elementor/elementor-testimonial.php:330
+#: elementor/elementor-twitter.php:411 elementor/elementor-ver-promo.php:354
+#: elementor/elementor-widget.php:300
+msgid "Background Size"
+msgstr ""
+
+#: elementor/elementor-blog.php:320 elementor/elementor-client.php:192
+#: elementor/elementor-contact.php:300 elementor/elementor-custom.php:301
+#: elementor/elementor-fun-fact.php:220 elementor/elementor-hor-promo.php:354
+#: elementor/elementor-icon-service-img.php:366
+#: elementor/elementor-icon-service.php:331
+#: elementor/elementor-portfolio.php:327
+#: elementor/elementor-pricing-table.php:379
+#: elementor/elementor-process.php:349 elementor/elementor-skill-bar.php:355
+#: elementor/elementor-slider.php:326 elementor/elementor-subscribe.php:361
+#: elementor/elementor-team.php:357 elementor/elementor-testimonial.php:334
+#: elementor/elementor-twitter.php:415 elementor/elementor-ver-promo.php:358
+#: elementor/elementor-widget.php:304
+msgid "Cover"
+msgstr ""
+
+#: elementor/elementor-blog.php:325 elementor/elementor-client.php:196
+#: elementor/elementor-contact.php:304 elementor/elementor-custom.php:305
+#: elementor/elementor-fun-fact.php:224 elementor/elementor-hor-promo.php:358
+#: elementor/elementor-icon-service-img.php:370
+#: elementor/elementor-icon-service.php:335
+#: elementor/elementor-portfolio.php:331
+#: elementor/elementor-pricing-table.php:383
+#: elementor/elementor-process.php:353 elementor/elementor-skill-bar.php:359
+#: elementor/elementor-slider.php:330 elementor/elementor-subscribe.php:365
+#: elementor/elementor-team.php:361 elementor/elementor-testimonial.php:338
+#: elementor/elementor-twitter.php:419 elementor/elementor-ver-promo.php:362
+#: elementor/elementor-widget.php:308
+msgid "Contain"
+msgstr ""
+
+#: elementor/elementor-blog.php:329 elementor/elementor-client.php:200
+#: elementor/elementor-contact.php:308 elementor/elementor-custom.php:309
+#: elementor/elementor-fun-fact.php:228 elementor/elementor-hor-promo.php:362
+#: elementor/elementor-icon-service-img.php:374
+#: elementor/elementor-icon-service.php:339
+#: elementor/elementor-portfolio.php:335
+#: elementor/elementor-pricing-table.php:387
+#: elementor/elementor-process.php:357 elementor/elementor-skill-bar.php:363
+#: elementor/elementor-slider.php:334 elementor/elementor-subscribe.php:369
+#: elementor/elementor-team.php:365 elementor/elementor-testimonial.php:342
+#: elementor/elementor-twitter.php:423 elementor/elementor-ver-promo.php:366
+#: elementor/elementor-widget.php:312
+msgid "Auto"
+msgstr ""
+
+#: elementor/elementor-blog.php:352 elementor/elementor-client.php:223
+#: elementor/elementor-contact.php:331 elementor/elementor-custom.php:332
+#: elementor/elementor-fun-fact.php:251 elementor/elementor-hor-promo.php:385
+#: elementor/elementor-icon-service-img.php:394
+#: elementor/elementor-icon-service.php:359
+#: elementor/elementor-portfolio.php:358
+#: elementor/elementor-pricing-table.php:410
+#: elementor/elementor-process.php:380 elementor/elementor-skill-bar.php:386
+#: elementor/elementor-slider.php:357 elementor/elementor-subscribe.php:392
+#: elementor/elementor-team.php:388 elementor/elementor-testimonial.php:365
+#: elementor/elementor-twitter.php:446 elementor/elementor-ver-promo.php:389
+#: elementor/elementor-widget.php:335
+msgid "Background Attachment"
+msgstr ""
+
+#: elementor/elementor-blog.php:356 elementor/elementor-client.php:227
+#: elementor/elementor-contact.php:335 elementor/elementor-custom.php:336
+#: elementor/elementor-fun-fact.php:255 elementor/elementor-hor-promo.php:389
+#: elementor/elementor-icon-service-img.php:401
+#: elementor/elementor-icon-service.php:366
+#: elementor/elementor-portfolio.php:362
+#: elementor/elementor-pricing-table.php:414
+#: elementor/elementor-process.php:384 elementor/elementor-skill-bar.php:390
+#: elementor/elementor-slider.php:361 elementor/elementor-subscribe.php:396
+#: elementor/elementor-team.php:392 elementor/elementor-testimonial.php:369
+#: elementor/elementor-twitter.php:450 elementor/elementor-ver-promo.php:393
+#: elementor/elementor-widget.php:339
+msgid "Scroll"
+msgstr ""
+
+#: elementor/elementor-blog.php:360 elementor/elementor-client.php:231
+#: elementor/elementor-contact.php:339 elementor/elementor-custom.php:340
+#: elementor/elementor-fun-fact.php:259 elementor/elementor-hor-promo.php:393
+#: elementor/elementor-icon-service-img.php:405
+#: elementor/elementor-icon-service.php:370
+#: elementor/elementor-portfolio.php:366
+#: elementor/elementor-pricing-table.php:418
+#: elementor/elementor-process.php:388 elementor/elementor-skill-bar.php:394
+#: elementor/elementor-slider.php:365 elementor/elementor-subscribe.php:400
+#: elementor/elementor-team.php:396 elementor/elementor-testimonial.php:373
+#: elementor/elementor-twitter.php:454 elementor/elementor-ver-promo.php:397
+#: elementor/elementor-widget.php:343
+msgid "Fixed"
+msgstr ""
+
+#: elementor/elementor-blog.php:383 elementor/elementor-contact.php:362
+#: elementor/elementor-custom.php:363
+#: elementor/elementor-icon-service-img.php:424
+#: elementor/elementor-icon-service.php:390
+#: elementor/elementor-portfolio.php:389
+#: elementor/elementor-pricing-table.php:441
+#: elementor/elementor-process.php:410 elementor/elementor-skill-bar.php:416
+#: elementor/elementor-slider.php:669 elementor/elementor-team.php:419
+#: elementor/elementor-testimonial.php:396 elementor/elementor-twitter.php:477
+#: elementor/elementor-ver-promo.php:420 elementor/elementor-widget.php:366
+msgid "YouTube URL"
+msgstr ""
+
+#: elementor/elementor-blog.php:389 elementor/elementor-contact.php:368
+#: elementor/elementor-custom.php:369
+#: elementor/elementor-icon-service-img.php:430
+#: elementor/elementor-icon-service.php:396
+#: elementor/elementor-portfolio.php:395
+#: elementor/elementor-pricing-table.php:447
+#: elementor/elementor-process.php:416 elementor/elementor-skill-bar.php:422
+#: elementor/elementor-team.php:425 elementor/elementor-testimonial.php:402
+#: elementor/elementor-twitter.php:483 elementor/elementor-ver-promo.php:426
+#: elementor/elementor-widget.php:372
+msgid ""
+"IMPORTANT NOTE: The YouTube Video is automatically disabled in mobile "
+"devices. Instead, the Image will be used, so its better to define both Image "
+"and YouTube Video for best results."
+msgstr ""
+
+#: elementor/elementor-blog.php:409 elementor/elementor-client.php:259
+#: elementor/elementor-contact.php:389 elementor/elementor-custom.php:389
+#: elementor/elementor-fun-fact.php:287 elementor/elementor-hor-promo.php:421
+#: elementor/elementor-icon-service-img.php:449
+#: elementor/elementor-icon-service.php:416
+#: elementor/elementor-portfolio.php:415
+#: elementor/elementor-pricing-table.php:467
+#: elementor/elementor-process.php:438 elementor/elementor-skill-bar.php:441
+#: elementor/elementor-slider.php:393 elementor/elementor-subscribe.php:428
+#: elementor/elementor-team.php:445 elementor/elementor-testimonial.php:422
+#: elementor/elementor-twitter.php:503 elementor/elementor-ver-promo.php:446
+#: elementor/elementor-widget.php:392
+msgid "Enable Parallax Scrolling For Image?"
+msgstr ""
+
+#: elementor/elementor-blog.php:411 elementor/elementor-client.php:261
+#: elementor/elementor-contact.php:391 elementor/elementor-contact.php:482
+#: elementor/elementor-custom.php:391 elementor/elementor-fun-fact.php:289
+#: elementor/elementor-hor-promo.php:423
+#: elementor/elementor-icon-service-img.php:451
+#: elementor/elementor-icon-service.php:418
+#: elementor/elementor-portfolio.php:417 elementor/elementor-portfolio.php:442
+#: elementor/elementor-pricing-table.php:469
+#: elementor/elementor-pricing-table.php:540
+#: elementor/elementor-process.php:440 elementor/elementor-skill-bar.php:443
+#: elementor/elementor-slider.php:395 elementor/elementor-slider.php:420
+#: elementor/elementor-slider.php:445 elementor/elementor-slider.php:470
+#: elementor/elementor-subscribe.php:430 elementor/elementor-team.php:447
+#: elementor/elementor-testimonial.php:424 elementor/elementor-twitter.php:505
+#: elementor/elementor-ver-promo.php:448 elementor/elementor-widget.php:394
+msgid "Enable"
+msgstr ""
+
+#: elementor/elementor-blog.php:412 elementor/elementor-client.php:262
+#: elementor/elementor-contact.php:392 elementor/elementor-contact.php:483
+#: elementor/elementor-custom.php:392 elementor/elementor-fun-fact.php:290
+#: elementor/elementor-hor-promo.php:424
+#: elementor/elementor-icon-service-img.php:452
+#: elementor/elementor-icon-service.php:419
+#: elementor/elementor-portfolio.php:418 elementor/elementor-portfolio.php:443
+#: elementor/elementor-pricing-table.php:470
+#: elementor/elementor-pricing-table.php:541
+#: elementor/elementor-process.php:441 elementor/elementor-skill-bar.php:444
+#: elementor/elementor-slider.php:396 elementor/elementor-slider.php:421
+#: elementor/elementor-slider.php:446 elementor/elementor-slider.php:471
+#: elementor/elementor-subscribe.php:431 elementor/elementor-team.php:448
+#: elementor/elementor-testimonial.php:425 elementor/elementor-twitter.php:506
+#: elementor/elementor-ver-promo.php:449 elementor/elementor-widget.php:395
+msgid "Disable"
+msgstr ""
+
+#: elementor/elementor-blog.php:428
+msgid "Post Date Font Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:452
+msgid "Post Date Background Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:475
+msgid "Read More Button Text"
+msgstr ""
+
+#: elementor/elementor-blog.php:491
+msgid "Read More Font Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:515
+msgid "Read More Background Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:538
+msgid "View More Button Text"
+msgstr ""
+
+#: elementor/elementor-blog.php:554
+msgid "View More Font Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:577
+msgid "View More Icon Color"
+msgstr ""
+
+#: elementor/elementor-blog.php:600
+msgid "View More Background Color"
+msgstr ""
+
+#: elementor/elementor-client.php:13
+msgid "BeOne Client"
+msgstr ""
+
+#: elementor/elementor-client.php:22
+msgid "Client Option"
+msgstr ""
+
+#: elementor/elementor-client.php:302 inc/cmb2/CMB.php:719
+msgid "Client Logo"
+msgstr ""
+
+#: elementor/elementor-client.php:309 elementor/elementor-testimonial.php:477
+#: inc/cmb2/CMB.php:680 inc/cmb2/CMB.php:729
+msgid "Client Name"
+msgstr ""
+
+#: elementor/elementor-client.php:316 inc/cmb2/CMB.php:735
+msgid "Client URL"
+msgstr ""
+
+#: elementor/elementor-client.php:318 elementor/elementor-contact.php:671
+#: elementor/elementor-icon-service-img.php:538
+#: elementor/elementor-icon-service.php:505
+#: elementor/elementor-pricing-table.php:588
+#: elementor/elementor-slider.php:720 elementor/elementor-team.php:572
+#: elementor/elementor-team.php:588 elementor/elementor-team.php:604
+#: elementor/elementor-team.php:620
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/elementor-client.php:324
+msgid "Client data"
+msgstr ""
+
+#: elementor/elementor-contact.php:13
+msgid "BeOne Contact"
+msgstr ""
+
+#: elementor/elementor-contact.php:22
+msgid "Contact Option"
+msgstr ""
+
+#: elementor/elementor-contact.php:408
+msgid "Contact Form Animation"
+msgstr ""
+
+#: elementor/elementor-contact.php:425
+msgid "Send Button Text"
+msgstr ""
+
+#: elementor/elementor-contact.php:447 elementor/elementor-hor-promo.php:165
+#: elementor/elementor-pricing-table.php:208
+#: elementor/elementor-slider.php:185 elementor/elementor-slider.php:518
+#: elementor/elementor-twitter.php:198 elementor/elementor-ver-promo.php:165
+msgid "Button Style"
+msgstr ""
+
+#: elementor/elementor-contact.php:451 elementor/elementor-hor-promo.php:169
+#: elementor/elementor-pricing-table.php:212
+#: elementor/elementor-slider.php:189 elementor/elementor-slider.php:522
+#: elementor/elementor-twitter.php:202 elementor/elementor-ver-promo.php:169
+msgid "Light"
+msgstr ""
+
+#: elementor/elementor-contact.php:455 elementor/elementor-hor-promo.php:173
+#: elementor/elementor-pricing-table.php:216
+#: elementor/elementor-slider.php:193 elementor/elementor-slider.php:526
+#: elementor/elementor-twitter.php:206 elementor/elementor-ver-promo.php:173
+msgid "Dark"
+msgstr ""
+
+#: elementor/elementor-contact.php:480
+msgid "Enable Google Maps?"
+msgstr ""
+
+#: elementor/elementor-contact.php:499
+msgid "Latitude"
+msgstr ""
+
+#: elementor/elementor-contact.php:516
+msgid "Longitude"
+msgstr ""
+
+#: elementor/elementor-contact.php:534
+msgid "Google Maps API key"
+msgstr ""
+
+#: elementor/elementor-contact.php:551
+msgid "Contact form Receiver Email"
+msgstr ""
+
+#: elementor/elementor-contact.php:573
+msgid "Enable privacy checkbox?"
+msgstr ""
+
+#: elementor/elementor-contact.php:575
+msgid "Yes"
+msgstr ""
+
+#: elementor/elementor-contact.php:576
+msgid "No"
+msgstr ""
+
+#: elementor/elementor-contact.php:592
+msgid "Select privacy page"
+msgstr ""
+
+#: elementor/elementor-contact.php:645 elementor/elementor-skill-bar.php:513
+#: inc/cmb2/CMB.php:467
+msgid "Label"
+msgstr ""
+
+#: elementor/elementor-contact.php:647
+msgid "List Item"
+msgstr ""
+
+#: elementor/elementor-contact.php:654
+#: elementor/elementor-icon-service-img.php:513
+#: elementor/elementor-icon-service.php:480
+#: elementor/elementor-process.php:492 elementor/elementor-testimonial.php:492
+#: inc/cmb2/CMB.php:346 inc/cmb2/CMB.php:410 inc/cmb2/CMB.php:473
+#: inc/cmb2/CMB.php:528
+msgid "Description"
+msgstr ""
+
+#: elementor/elementor-contact.php:662
+#: elementor/elementor-icon-service-img.php:521
+#: elementor/elementor-icon-service.php:488
+#: elementor/elementor-process.php:500 inc/cmb2/CMB.php:352
+#: inc/cmb2/CMB.php:416 inc/cmb2/CMB.php:479 inc/cmb2/CMB.php:534
+msgid "Icon"
+msgstr ""
+
+#: elementor/elementor-contact.php:669
+#: elementor/elementor-icon-service-img.php:536
+#: elementor/elementor-icon-service.php:503 inc/cmb2/CMB.php:368
+#: inc/cmb2/CMB.php:432 inc/cmb2/CMB.php:487
+msgid "URL"
+msgstr ""
+
+#: elementor/elementor-contact.php:677
+#: elementor/elementor-icon-service-img.php:544
+#: elementor/elementor-icon-service.php:511
+#: elementor/elementor-pricing-table.php:594
+#: elementor/elementor-process.php:507
+msgid "Animation"
+msgstr ""
+
+#: elementor/elementor-contact.php:685
+msgid "Contact data"
+msgstr ""
+
+#: elementor/elementor-contact.php:875
+msgid "This field is required."
+msgstr ""
+
+#: elementor/elementor-contact.php:876
+msgid "Please check your math."
+msgstr ""
+
+#: elementor/elementor-contact.php:877
+msgid "Invalid email address."
+msgstr ""
+
+#: elementor/elementor-contact.php:888 elementor/elementor-team.php:540
+#: inc/cmb2/CMB.php:581
+msgid "Name"
+msgstr ""
+
+#: elementor/elementor-contact.php:892
+msgid "Email"
+msgstr ""
+
+#: elementor/elementor-contact.php:896
+msgid "Phone"
+msgstr ""
+
+#: elementor/elementor-contact.php:900
+msgid "Subject"
+msgstr ""
+
+#: elementor/elementor-contact.php:904
+msgid "Message"
+msgstr ""
+
+#: elementor/elementor-contact.php:917
+msgid "By filling out this form and clicking submit, you agree to our "
+msgstr ""
+
+#: elementor/elementor-contact.php:936
+msgid "Locate us on the map"
+msgstr ""
+
+#: elementor/elementor-custom.php:13
+msgid "BeOne Custom"
+msgstr ""
+
+#: elementor/elementor-custom.php:22
+msgid "Custom Option"
+msgstr ""
+
+#: elementor/elementor-custom.php:113 elementor/elementor-widget.php:114
+msgid "Separator Line"
+msgstr ""
+
+#: elementor/elementor-custom.php:136 elementor/elementor-widget.php:137
+msgid "Separator Circle"
+msgstr ""
+
+#: elementor/elementor-custom.php:409 elementor/elementor-skill-bar.php:461
+msgid "Content Box"
+msgstr ""
+
+#: elementor/elementor-custom.php:412 elementor/elementor-hor-promo.php:77
+#: elementor/elementor-slider.php:95 elementor/elementor-subscribe.php:75
+#: elementor/elementor-ver-promo.php:76
+msgid "Enter Content"
+msgstr ""
+
+#: elementor/elementor-fun-fact.php:13
+msgid "BeOne Fun Fact"
+msgstr ""
+
+#: elementor/elementor-fun-fact.php:22
+msgid "Process Fun Fact"
+msgstr ""
+
+#: elementor/elementor-fun-fact.php:59
+msgid "Label Color"
+msgstr ""
+
+#: elementor/elementor-fun-fact.php:166 elementor/elementor-hor-promo.php:300
+#: elementor/elementor-slider.php:272
+msgid "Repeat hortically"
+msgstr ""
+
+#: elementor/elementor-fun-fact.php:324
+msgid "Fact Label"
+msgstr ""
+
+#: elementor/elementor-fun-fact.php:332
+msgid "Fact Number"
+msgstr ""
+
+#: elementor/elementor-fun-fact.php:340
+msgid "Fun Fact"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:14
+msgid "BeOne Horizontal Promotion"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:23
+msgid "Horizontal Promotion Option"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:38 elementor/elementor-slider.php:70
+#: elementor/elementor-slider.php:679 elementor/elementor-subscribe.php:38
+#: elementor/elementor-ver-promo.php:37 inc/cmb2/CMB.php:267
+msgid "Heading"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:55 elementor/elementor-slider.php:687
+#: elementor/elementor-subscribe.php:55 elementor/elementor-ver-promo.php:54
+msgid "Heading Animation"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:73 elementor/elementor-portfolio.php:624
+#: elementor/elementor-pricing-table.php:602 elementor/elementor-slider.php:91
+#: elementor/elementor-slider.php:695 elementor/elementor-subscribe.php:72
+#: elementor/elementor-ver-promo.php:72 inc/cmb2/CMB.php:283
+#: inc/cmb2/CMB.php:693 inc/cmb2/CMB.php:815
+msgid "Content"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:91 elementor/elementor-slider.php:703
+#: elementor/elementor-subscribe.php:89 elementor/elementor-ver-promo.php:90
+msgid "Content Animation"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:109
+#: elementor/elementor-pricing-table.php:579
+#: elementor/elementor-slider.php:140 elementor/elementor-slider.php:711
+#: elementor/elementor-subscribe.php:142 elementor/elementor-twitter.php:142
+#: elementor/elementor-ver-promo.php:108 inc/cmb2/CMB.php:298
+#: inc/cmb2/CMB.php:794
+msgid "Button Text"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:112 elementor/elementor-slider.php:143
+#: elementor/elementor-subscribe.php:145 elementor/elementor-ver-promo.php:111
+msgid "Enter Button Text"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:126
+#: elementor/elementor-pricing-table.php:586
+#: elementor/elementor-slider.php:160 elementor/elementor-twitter.php:159
+#: elementor/elementor-ver-promo.php:125 inc/cmb2/CMB.php:304
+#: inc/cmb2/CMB.php:800
+msgid "Button URL"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:129 elementor/elementor-slider.php:163
+#: elementor/elementor-twitter.php:162 elementor/elementor-ver-promo.php:128
+msgid "Enter Button URL"
+msgstr ""
+
+#: elementor/elementor-hor-promo.php:143 elementor/elementor-slider.php:726
+#: elementor/elementor-subscribe.php:159 elementor/elementor-twitter.php:176
+#: elementor/elementor-ver-promo.php:142
+msgid "Button Animation"
+msgstr ""
+
+#: elementor/elementor-icon-service-img.php:17
+msgid "BeOne Icon Service Image"
+msgstr ""
+
+#: elementor/elementor-icon-service-img.php:26
+msgid "Icon Service Image Option"
+msgstr ""
+
+#: elementor/elementor-icon-service-img.php:41
+#: elementor/elementor-icon-service.php:39 elementor/elementor-process.php:38
+#: elementor/elementor-skill-bar.php:38
+msgid "Section Title"
+msgstr ""
+
+#: elementor/elementor-icon-service-img.php:58
+#: elementor/elementor-icon-service.php:56 elementor/elementor-process.php:56
+#: elementor/elementor-skill-bar.php:55
+msgid "Section Sub Title"
+msgstr ""
+
+#: elementor/elementor-icon-service-img.php:180
+msgid "Image Animation"
+msgstr ""
+
+#: elementor/elementor-icon-service-img.php:197
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/elementor-icon-service-img.php:528
+#: elementor/elementor-icon-service.php:495 inc/cmb2/CMB.php:359
+#: inc/cmb2/CMB.php:423
+msgid "Image Icon"
+msgstr ""
+
+#: elementor/elementor-icon-service-img.php:552
+#: elementor/elementor-icon-service.php:519
+msgid "Icon Service data"
+msgstr ""
+
+#: elementor/elementor-icon-service.php:14
+msgid "BeOne Icon Service"
+msgstr ""
+
+#: elementor/elementor-icon-service.php:24
+msgid "Icon Service Option"
+msgstr ""
+
+#: elementor/elementor-icon-service.php:161
+msgid "Icon Background on Hover"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:16
+msgid "BeOne Portfolio"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:25
+msgid "Portfolio Option"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:166
+msgid "Hide \"Show All Button\""
+msgstr ""
+
+#: elementor/elementor-portfolio.php:168
+msgid "Hide"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:169
+msgid "Show"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:440
+msgid "Enable Portfolio Filter?"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:459
+msgid "Filter Animation"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:476
+msgid "Show All Button Text"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:492
+msgid "Filter Font Color"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:515
+msgid "Filter Background Color"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:539
+msgid "Portfolio Item Background on Hover"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:562
+msgid "Portfolio Item Title Color"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:585
+msgid "Portfolio Item Tag Color"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:608
+msgid "Portfolio Item column number"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:612
+msgid "3"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:613
+msgid "4"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:622
+msgid "Portfolio Item Image Popup"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:635
+msgid "Portfolio Item Limitation"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:637
+msgid "Limited"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:638
+msgid "More"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:648
+msgid "Portfolio Item To Show"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:651
+msgid "Portfolio Item Number"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:662 elementor/elementor-portfolio.php:665
+msgid "Show More Button Text"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:676 elementor/elementor-portfolio.php:679
+msgid "Show More Button URL"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:697
+msgid "Portfolio Modal Title Color"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:720
+msgid "Portfolio Modal Content Color"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:743
+msgid "Portfolio Modal Separator Color"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:766
+msgid "Portfolio Modal Background Color"
+msgstr ""
+
+#: elementor/elementor-portfolio.php:1109
+msgid "Gallery: "
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:16
+msgid "BeOne Pricing Table"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:25
+msgid "Pricing Table Option"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:138
+msgid "Separator Circle & Featured Table Color"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:161
+msgid "Pricing Table Box Font Color"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:184
+msgid "Pricing Table Box Background Color"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:538
+msgid "Featuring?"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:556 inc/cmb2/CMB.php:774
+msgid "Currency"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:564 inc/cmb2/CMB.php:781
+msgid "Duration"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:572 inc/cmb2/CMB.php:788
+msgid "Price"
+msgstr ""
+
+#: elementor/elementor-pricing-table.php:610
+msgid "Pricing Table data"
+msgstr ""
+
+#: elementor/elementor-process.php:14
+msgid "BeOne Process Flow"
+msgstr ""
+
+#: elementor/elementor-process.php:23
+msgid "Process Flow Option"
+msgstr ""
+
+#: elementor/elementor-process.php:159
+msgid "Process Label Color"
+msgstr ""
+
+#: elementor/elementor-process.php:182
+msgid "Active Process Color"
+msgstr ""
+
+#: elementor/elementor-process.php:515
+msgid "Process Flow"
+msgstr ""
+
+#: elementor/elementor-skill-bar.php:14
+msgid "BeOne Skill Bar"
+msgstr ""
+
+#: elementor/elementor-skill-bar.php:23
+msgid "Skill Bar Option"
+msgstr ""
+
+#: elementor/elementor-skill-bar.php:112
+msgid "Separator Line & Progress Bar Color"
+msgstr ""
+
+#: elementor/elementor-skill-bar.php:135
+msgid "Separator Circle & Active Bar Color"
+msgstr ""
+
+#: elementor/elementor-skill-bar.php:159
+msgid "Percentage Background Color"
+msgstr ""
+
+#: elementor/elementor-skill-bar.php:477
+msgid "Content Box Animation"
+msgstr ""
+
+#: elementor/elementor-skill-bar.php:521
+msgid "Skill Bar Percentage (e.g. 80%)"
+msgstr ""
+
+#: elementor/elementor-skill-bar.php:530
+msgid "Skill Bar"
+msgstr ""
+
+#: elementor/elementor-slider.php:14
+msgid "BeOne slider"
+msgstr ""
+
+#: elementor/elementor-slider.php:23
+msgid "Slider Option"
+msgstr ""
+
+#: elementor/elementor-slider.php:42 elementor/elementor-slider.php:640
+#: inc/cmb2/CMB.php:239
+msgid "Slider Type"
+msgstr ""
+
+#: elementor/elementor-slider.php:46
+msgid "Text"
+msgstr ""
+
+#: elementor/elementor-slider.php:418
+msgid "Enable Scroll Down Button For Background Image?"
+msgstr ""
+
+#: elementor/elementor-slider.php:443
+msgid "Enable Parallax Scrolling For Swiper Slider?"
+msgstr ""
+
+#: elementor/elementor-slider.php:468
+msgid "Enable Scroll Down Button For Swiper Slider?"
+msgstr ""
+
+#: elementor/elementor-slider.php:553
+msgid "Home Page Slider AutoPlay"
+msgstr ""
+
+#: elementor/elementor-slider.php:557
+msgid "AutoPlay On"
+msgstr ""
+
+#: elementor/elementor-slider.php:561
+msgid "AutoPlay Off"
+msgstr ""
+
+#: elementor/elementor-slider.php:718
+msgid "Button Url"
+msgstr ""
+
+#: elementor/elementor-slider.php:734
+msgid "Slider Module"
+msgstr ""
+
+#: elementor/elementor-subscribe.php:14
+msgid "BeOne Subscribe"
+msgstr ""
+
+#: elementor/elementor-subscribe.php:23
+msgid "MailChimp Subscribe Option"
+msgstr ""
+
+#: elementor/elementor-subscribe.php:41
+msgid "Enter Heading"
+msgstr ""
+
+#: elementor/elementor-subscribe.php:106
+msgid "MailChimp API Key"
+msgstr ""
+
+#: elementor/elementor-subscribe.php:109 elementor/elementor-subscribe.php:127
+msgid "Enter subscribe Username"
+msgstr ""
+
+#: elementor/elementor-subscribe.php:124
+msgid "MailChimp List ID"
+msgstr ""
+
+#: elementor/elementor-subscribe.php:176
+msgid "Button Color"
+msgstr ""
+
+#: elementor/elementor-subscribe.php:558
+msgid "Please fill out this field."
+msgstr ""
+
+#: elementor/elementor-subscribe.php:559
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: elementor/elementor-subscribe.php:563
+msgid "Enter your email address..."
+msgstr ""
+
+#: elementor/elementor-team.php:14
+msgid "BeOne Team"
+msgstr ""
+
+#: elementor/elementor-team.php:23
+msgid "Team Option"
+msgstr ""
+
+#: elementor/elementor-team.php:116 elementor/elementor-testimonial.php:116
+msgid "Separator Line & Dots Color"
+msgstr ""
+
+#: elementor/elementor-team.php:140 elementor/elementor-testimonial.php:140
+msgid "Separator Circle & Active Dot Color"
+msgstr ""
+
+#: elementor/elementor-team.php:165
+msgid "Font Color for Bio"
+msgstr ""
+
+#: elementor/elementor-team.php:190
+msgid "Background Color for Bio"
+msgstr ""
+
+#: elementor/elementor-team.php:533 inc/cmb2/CMB.php:571
+msgid "Picture"
+msgstr ""
+
+#: elementor/elementor-team.php:554 inc/cmb2/CMB.php:593
+msgid "Bio"
+msgstr ""
+
+#: elementor/elementor-team.php:562 inc/cmb2/CMB.php:599
+msgid "Social Label 1"
+msgstr ""
+
+#: elementor/elementor-team.php:570 inc/cmb2/CMB.php:606
+msgid "Social Link 1"
+msgstr ""
+
+#: elementor/elementor-team.php:578 inc/cmb2/CMB.php:612
+msgid "Social Label 2"
+msgstr ""
+
+#: elementor/elementor-team.php:586 inc/cmb2/CMB.php:619
+msgid "Social Link 2"
+msgstr ""
+
+#: elementor/elementor-team.php:594 inc/cmb2/CMB.php:625
+msgid "Social Label 3"
+msgstr ""
+
+#: elementor/elementor-team.php:602 inc/cmb2/CMB.php:632
+msgid "Social Link 3"
+msgstr ""
+
+#: elementor/elementor-team.php:610 inc/cmb2/CMB.php:638
+msgid "Social Label 4"
+msgstr ""
+
+#: elementor/elementor-team.php:618 inc/cmb2/CMB.php:645
+msgid "Social Link 4"
+msgstr ""
+
+#: elementor/elementor-team.php:626
+msgid "Team data"
+msgstr ""
+
+#: elementor/elementor-testimonial.php:14
+msgid "BeOne Testimonial"
+msgstr ""
+
+#: elementor/elementor-testimonial.php:23
+msgid "Testimonial Option"
+msgstr ""
+
+#: elementor/elementor-testimonial.php:165
+msgid "Testimonial Box Background Color"
+msgstr ""
+
+#: elementor/elementor-testimonial.php:470 inc/cmb2/CMB.php:670
+msgid "Client Picture"
+msgstr ""
+
+#: elementor/elementor-testimonial.php:484 inc/cmb2/CMB.php:686
+msgid "Addition"
+msgstr ""
+
+#: elementor/elementor-testimonial.php:486 inc/cmb2/CMB.php:687
+msgid "e.g. company or title."
+msgstr ""
+
+#: elementor/elementor-testimonial.php:500
+msgid "testimonial data"
+msgstr ""
+
+#: elementor/elementor-twitter.php:14
+msgid "BeOne Twitter"
+msgstr ""
+
+#: elementor/elementor-twitter.php:23
+msgid "Twitter Option"
+msgstr ""
+
+#: elementor/elementor-twitter.php:37
+msgid "Twitter Logo Animation"
+msgstr ""
+
+#: elementor/elementor-twitter.php:55
+msgid "Twitter Username"
+msgstr ""
+
+#: elementor/elementor-twitter.php:58 elementor/elementor-twitter.php:75
+#: elementor/elementor-twitter.php:92 elementor/elementor-twitter.php:109
+#: elementor/elementor-twitter.php:127 elementor/elementor-twitter.php:145
+msgid "Enter Twitter Username"
+msgstr ""
+
+#: elementor/elementor-twitter.php:72
+msgid "Consumer Key"
+msgstr ""
+
+#: elementor/elementor-twitter.php:89
+msgid "Consumer Secret"
+msgstr ""
+
+#: elementor/elementor-twitter.php:106
+msgid "Access Token"
+msgstr ""
+
+#: elementor/elementor-twitter.php:124
+msgid "Access Token Secret"
+msgstr ""
+
+#: elementor/elementor-twitter.php:248
+msgid "Twitter Logo & Link Color"
+msgstr ""
+
+#: elementor/elementor-ver-promo.php:13
+msgid "BeOne Verticle Promotion"
+msgstr ""
+
+#: elementor/elementor-ver-promo.php:22
+msgid "Vertical Promotion Option"
+msgstr ""
+
+#: elementor/elementor-widget.php:14
+msgid "BeOne Widget"
+msgstr ""
+
+#: elementor/elementor-widget.php:23
+msgid "Widget Option"
+msgstr ""
+
+#: inc/cmb2/CMB.php:48 inc/custom-menu/menu-item-custom-field.php:163
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/cmb2/CMB.php:49 inc/custom-menu/menu-item-custom-field.php:165
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/cmb2/CMB.php:59 inc/custom-menu/menu-item-custom-field.php:174
+msgid "Type to search icons"
+msgstr ""
+
+#: inc/cmb2/CMB.php:124
+msgid "Post Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:131 inc/cmb2/CMB.php:195
+msgid "Audio & Video Resources:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:132 inc/cmb2/CMB.php:196
+msgid ""
+"It is easy to embed audios or videos from popular websites (YouTube, Vimeo, "
+"SoundCloud, etc.), just need to paste the link."
+msgstr ""
+
+#: inc/cmb2/CMB.php:137 inc/cmb2/CMB.php:201
+msgid "Audio"
+msgstr ""
+
+#: inc/cmb2/CMB.php:143 inc/cmb2/CMB.php:207
+msgid "Audio URL:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:149 inc/cmb2/CMB.php:213
+msgid "Video URL:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:158
+msgid "Portfolio Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:165
+msgid "Created by:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:171
+msgid "Completed on:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:177
+msgid "Skills:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:183
+msgid "Client's Name:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:189
+msgid "Client's URL:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:222
+msgid "Slider Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:231
+msgid "Slide {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:232
+msgid "Add Another Slide"
+msgstr ""
+
+#: inc/cmb2/CMB.php:233
+msgid "Remove Slide"
+msgstr ""
+
+#: inc/cmb2/CMB.php:251 inc/cmb2/CMB.php:572 inc/cmb2/CMB.php:671
+#: inc/cmb2/CMB.php:720
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#: inc/cmb2/CMB.php:255 inc/cmb2/CMB.php:364 inc/cmb2/CMB.php:428
+#: inc/cmb2/CMB.php:576 inc/cmb2/CMB.php:675 inc/cmb2/CMB.php:724
+msgid "Add or Upload Image"
+msgstr ""
+
+#: inc/cmb2/CMB.php:260
+msgid "YouTube Video"
+msgstr ""
+
+#: inc/cmb2/CMB.php:261
+msgid ""
+"It is easy to use any YouTube video as your background, just need to paste "
+"the link. <b>IMPORTANT NOTE:</b> The YouTube Video is automatically disabled "
+"in mobile devices. Instead, the Image will be used, so it's better to define "
+"both Image and YouTube Video for best results."
+msgstr ""
+
+#: inc/cmb2/CMB.php:268 inc/cmb2/CMB.php:340 inc/cmb2/CMB.php:404
+msgid "If you want to color the word, just wrap it with \"span\" tag."
+msgstr ""
+
+#: inc/cmb2/CMB.php:322
+msgid "Icon Services Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:331 inc/cmb2/CMB.php:395
+msgid "Service Box {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:332 inc/cmb2/CMB.php:396
+msgid "Add Another Service Box"
+msgstr ""
+
+#: inc/cmb2/CMB.php:333 inc/cmb2/CMB.php:397
+msgid "Remove Service Box"
+msgstr ""
+
+#: inc/cmb2/CMB.php:360 inc/cmb2/CMB.php:424
+msgid "Upload an image or enter an URL. (Recommended of size 40x40px)"
+msgstr ""
+
+#: inc/cmb2/CMB.php:386
+msgid "Icon Services with Image Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:450
+msgid "Contact Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:459
+msgid "Contact Box {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:460
+msgid "Add Another Contact Box"
+msgstr ""
+
+#: inc/cmb2/CMB.php:461
+msgid "Remove Contact Box"
+msgstr ""
+
+#: inc/cmb2/CMB.php:505
+msgid "Process Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:514
+msgid "Process Flow {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:515
+msgid "Add Another Process"
+msgstr ""
+
+#: inc/cmb2/CMB.php:516
+msgid "Remove Process"
+msgstr ""
+
+#: inc/cmb2/CMB.php:554
+msgid "Team Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:563
+msgid "Team Member {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:564
+msgid "Add Another Team Member"
+msgstr ""
+
+#: inc/cmb2/CMB.php:565
+msgid "Remove Team Member"
+msgstr ""
+
+#: inc/cmb2/CMB.php:600 inc/cmb2/CMB.php:613 inc/cmb2/CMB.php:626
+#: inc/cmb2/CMB.php:639
+msgid "e.g. Twitter, Facebook, LinkedIn, Google Plus."
+msgstr ""
+
+#: inc/cmb2/CMB.php:653
+msgid "Testimonial Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:662
+msgid "Testimonial {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:663
+msgid "Add Another Testimonial"
+msgstr ""
+
+#: inc/cmb2/CMB.php:664
+msgid "Remove Testimonial"
+msgstr ""
+
+#: inc/cmb2/CMB.php:702
+msgid "Client Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:711
+msgid "Client {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:712
+msgid "Add Another Client"
+msgstr ""
+
+#: inc/cmb2/CMB.php:713
+msgid "Remove Client"
+msgstr ""
+
+#: inc/cmb2/CMB.php:744
+msgid "Pricing Table Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:753
+msgid "Pricing Table {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:754
+msgid "Add Another Pricing Table"
+msgstr ""
+
+#: inc/cmb2/CMB.php:755
+msgid "Remove Pricing Table"
+msgstr ""
+
+#: inc/cmb2/CMB.php:762
+msgid "Featuring a table will mark it with a star."
+msgstr ""
+
+#: inc/cmb2/CMB.php:775
+msgid "Input your desired currency symbol here. e.g. \"$\"."
+msgstr ""
+
+#: inc/cmb2/CMB.php:782
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here. e.g. monthly."
+msgstr ""
+
+#: inc/cmb2/CMB.php:817
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: + Included "
+"option - Excluded option."
+msgstr ""
+
+#: inc/cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Field.php:978 inc/cmb2/includes/CMB2_Field.php:982
+msgid "None"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:86 inc/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:118 inc/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:137 inc/cmb2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:138 inc/cmb2/includes/CMB2_Types.php:357
+#: inc/cmb2/includes/CMB2_Types.php:1023
+msgid "Remove"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:139 inc/cmb2/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:140 inc/cmb2/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Types.php:749 inc/cmb2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/cmb2/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: inc/cpt/CPT.php:399 inc/cpt/CPT.php:400 inc/cpt/CPT.php:401
+#: inc/cpt/CPT.php:402 inc/cpt/CPT.php:497 inc/cpt/CPT.php:498
+#: inc/cpt/CPT.php:499 inc/cpt/CPT.php:626
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/cpt/CPT.php:403
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt/CPT.php:404 inc/cpt/CPT.php:504
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:405 inc/cpt/CPT.php:501
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:406
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:407 inc/cpt/CPT.php:502
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:408 inc/cpt/CPT.php:508
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:409 inc/cpt/CPT.php:513
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: inc/cpt/CPT.php:410
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: inc/cpt/CPT.php:411 inc/cpt/CPT.php:507
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: inc/cpt/CPT.php:500
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:503
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:505
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: inc/cpt/CPT.php:506
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:509
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:510
+#, php-format
+msgid "Seperate %s with commas"
+msgstr ""
+
+#: inc/cpt/CPT.php:511
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:512
+#, php-format
+msgid "Choose from most used %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:700
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:826
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:1044 inc/cpt/CPT.php:1047 inc/cpt/CPT.php:1049
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: inc/cpt/CPT.php:1045
+msgid "Custom field updated."
+msgstr ""
+
+#: inc/cpt/CPT.php:1046
+msgid "Custom field deleted."
+msgstr ""
+
+#: inc/cpt/CPT.php:1048
+#, php-format
+msgid "%2$s restored to revision from %1$s"
+msgstr ""
+
+#: inc/cpt/CPT.php:1050
+#, php-format
+msgid "%s saved."
+msgstr ""
+
+#: inc/cpt/CPT.php:1051
+#, php-format
+msgid "%s submitted."
+msgstr ""
+
+#: inc/cpt/CPT.php:1053
+#, php-format
+msgid "%2$s scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/cpt/CPT.php:1054
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/cpt/CPT.php:1057
+#, php-format
+msgid "%s draft updated."
+msgstr ""
+
+#: inc/cpt/CPT.php:1076 inc/cpt/CPT.php:1077 inc/cpt/CPT.php:1078
+#: inc/cpt/CPT.php:1079 inc/cpt/CPT.php:1080
+#, php-format
+msgid "%s "
+msgid_plural "%s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-menu/menu-item-custom-field.php:79
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/custom-menu/menu-item-custom-field.php:162
+msgid "Select an icon for the menu item"
+msgstr ""
+
+#: inc/custom-menu/menu-item-custom-field.php:328
+msgid "Add a menu"
+msgstr ""

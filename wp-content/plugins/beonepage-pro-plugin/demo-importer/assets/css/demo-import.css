@@ -1,0 +1,119 @@
+/**
+ *  Modals
+ */
+
+.beone_importer_notice .modal {
+    position: absolute;
+    z-index: 10000; /* 1 */
+    top: 0;
+    left: 0;
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+}
+.appearance_page_one-click-demo-import .beone_importer_notice .modal-heading {
+    margin: 0px;
+}
+.beone_importer_notice .modal.is-visible {
+    visibility: visible;
+}
+
+.beone_importer_notice .modal-overlay {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: hsla(0, 0%, 0%, 0.5);
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s linear 0.3s, opacity 0.3s;
+}
+
+.beone_importer_notice .modal.is-visible .modal-overlay {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0s;
+}
+
+.beone_importer_notice .modal-wrapper {
+  position: fixed;
+  z-index: 9999;
+  top: 35%;
+  left: 50%;
+  width: 32em;
+  margin-left: -16em;
+  background-color: #fff;
+  box-shadow: 0 0 1.5em hsla(0, 0%, 0%, 0.35);
+}
+
+.beone_importer_notice .modal-transition {
+  transition: all 0.3s 0.12s;
+  transform: translateY(-10%);
+  opacity: 0;
+}
+
+.beone_importer_notice .modal.is-visible .modal-transition {
+  transform: translateY(0);
+  opacity: 1;
+  border-radius: 5px;
+}
+
+.beone_importer_notice .modal-header{
+  padding: 20px 20px;
+}
+.beone_importer_notice .modal-content {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.beone_importer_notice .modal-header {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 1px 2px hsla(0, 0%, 0%, 0.06);
+  border-bottom: 1px solid #e8e8e8;
+  border-radius: 5px;
+}
+
+.beone_importer_notice .modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 1em;
+  color: #aaa;
+  background: none;
+  border: 0;
+}
+
+.beone_importer_notice .modal-close:hover {
+  color: #777;
+}
+
+.beone_importer_notice button.modal-close:before {
+    content: 'X';
+    display: block;
+    width: 10px;
+	font-size: 18px;
+    height: 3px;
+	color:#000;
+}
+.beone_importer_notice .button_update{
+	margin-top: 30px;
+	background-color: #2271b1;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 50px;
+    display: block;
+    text-decoration: none;
+    color: #fff !important;
+    border-radius: 5px;
+    text-align: center;
+}
+.beone_importer_notice .modal-content p{
+	font-size: 15px;
+}
+.beone_importer_notice .modal-content p span{
+	font-weight: 700;
+}

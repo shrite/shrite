@@ -1,0 +1,20 @@
+<?php
+	include_once('elementor-slider.php');
+	include_once('elementor-skill-bar.php');
+	include_once('elementor-icon-service.php');
+	include_once('elementor-portfolio.php');
+	include_once('elementor-team.php');
+	include_once('elementor-process.php');
+	include_once('elementor-fun-fact.php');
+	include_once('elementor-icon-service-img.php');
+	include_once('elementor-testimonial.php');
+	include_once('elementor-client.php');	
+	include_once('elementor-ver-promo.php');
+	include_once('elementor-pricing-table.php');
+	include_once('elementor-twitter.php');	
+	include_once('elementor-hor-promo.php');	
+	include_once('elementor-blog.php');
+	include_once('elementor-subscribe.php');
+	include_once('elementor-contact.php');	
+	include_once('elementor-widget.php');	
+	include_once('elementor-custom.php');

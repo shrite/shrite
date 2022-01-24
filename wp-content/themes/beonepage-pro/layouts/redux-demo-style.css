@@ -1,0 +1,260 @@
+#redux_demo-front_page_skill_bar_module_skill_bar .media_upload_button,
+#redux_demo-front_page_widget_module_widget .media_upload_button,
+#redux_demo-front_page_fun_fact_module_fact .media_upload_button,
+.control-section-kirki-default,
+.control-panel-kirki-default,
+.redux-customizer-opt-name,
+#customize-theme-controls .control-section-redux,
+#customize-theme-controls .control-panel-redux,
+#accordion-panel-site_front_page,
+#customize-control-icon_logo_type,
+#customize-control-icon_logo_title {
+    display: none !important;
+}
+.control-section-kirki-default#accordion-section-site_icon_logo,
+.control-section-kirki-default#sub-accordion-section-site_icon_logo{
+    display: block !important;
+}
+#redux_demo-front_page_module_manager .sortlist_front_page_module_manager {
+	    width: 250px;
+}
+
+/*
+*Redux frame work css
+*/
+@import url(https://fonts.googleapis.com/css?family=Martel+Sans:400,200,300,600,800,700,900);
+
+.wp-core-ui .redux-container h1,
+.wp-core-ui .redux-container h2,
+.wp-core-ui .redux-container h3,
+.wp-core-ui .redux-container h4,
+.wp-core-ui .redux-container h5,
+.wp-core-ui .redux-container h6 {
+    font-family: 'Martel Sans', sans-serif;
+}
+.wp-core-ui .redux-container .button-primary,
+.wp-core-ui .redux-container .button-primary,
+.wp-core-ui .redux-container .button-primary:focus,
+.wp-core-ui .redux-container .button-primary:hover 
+.wp-core-ui .redux-container .redux-action_bar .button.button-primary{
+    background: #000 !important;
+    border-color: #000 !important;
+    color: #fff;
+	background: #000;
+    border-color: #000 #000 #000 !important;
+    -webkit-box-shadow: 0 1px 0 #000 !important;
+    box-shadow: 0 1px 0 #000 !important;
+    color: #fff;
+    text-decoration: none;
+	border-radius: 0px;
+    text-shadow: 0 -1px 1px #000,1px 0 1px #000,0 1px 1px #000,-1px 0 1px #000;
+    border: none;
+}
+.wp-core-ui .redux-container .button,
+.wp-core-ui .redux-container  .button-secondary {
+    color: #fff !important;
+    border-color: #6f6f6f;
+    background: #6f6f6f;
+    -webkit-box-shadow: 0 1px 0 #6f6f6f;
+    box-shadow: 0 1px 0 #6f6f6f;
+    vertical-align: top;
+	border-radius: 0px;
+    border: none;
+}
+.wp-core-ui .redux-container .button:hover,
+.wp-core-ui .redux-container  .button-secondary:hover{
+	border: none;
+    color: #FFF;
+    outline: none;
+    background-color: #000;
+    border-radius: 0px;
+	 -webkit-box-shadow: 0 1px 0 #000;
+    box-shadow: 0 1px 0 #000;
+}
+
+.admin-color-fresh #redux-header,
+.wp-customizer #redux-header {
+    border-color: rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+}
+.display_header span{
+	padding-top: 61px;
+    display: inline-block;
+    float: left;
+}
+.redux-notice-field.redux-warning {
+    background-color: #fbeba4;
+    border-color: #d7c281 !important;
+    color: #333;
+     min-height: 20px;
+    padding: 8px 19px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid !important;
+    position: relative;
+}
+.redux-container #redux-header .display_header .redux-dev-mode-notice-container {
+    position: absolute;
+    top: 74%;
+    left: 20px;
+    bottom: auto;
+    width: auto;
+    clear: right;
+}
+.redux-container #redux-header .display_header {
+    float: left;
+    margin: 0px 10px;
+	    width: 100%;
+	text-align: left;
+}
+.redux-sidebar .redux-group-menu li:first-child{
+	    margin-top: 25px !important;
+    border-top: 0px !important;
+}
+.admin-color-fresh #redux-header{
+	    border-bottom: 1px solid #ccc;
+}
+.redux-group-menu li.active a{
+	background: #fff !important;
+    color: #f55e45 !important;
+    width: 184px;
+    opacity: 1;
+	border-bottom:2px solid #f55e45 !important;
+	    border-bottom-color:#f55e45 !important;
+}
+.admin-color-fresh .redux-container-switch .cb-enable.selected,
+.admin-color-fresh .redux-field-container .ui-buttonset .ui-state-active,
+.wp-customizer .redux-container-switch .cb-enable.selected,
+.wp-customizer .redux-field-container .ui-buttonset .ui-state-active {
+    background-color: #f55e45 !important;
+    background-image: -khtml-gradient(linear, left top, left bottom, from(#f55e45), to(#f55e45)) !important;
+    background-image: -moz-linear-gradient(top, #f55e45, #f55e45) !important;
+    background-image: -ms-linear-gradient(top, #f55e45, #f55e45) !important;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f55e45), color-stop(100%, #f55e45)) !important;
+    background-image: -webkit-linear-gradient(top, #f55e45, #f55e45) !important;
+    background-image: -o-linear-gradient(top, #f55e45, #f55e45) !important;
+    background-image: -linear-gradient(top, #f55e45, #f55e45) !important;
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#f55e45', endColorstr='#f55e45', GradientType=0) !important;
+    border-color: #f55e45 !important;
+    border-color: #f55e45 !important;
+    -webkit-box-shadow: inset 0 1px 0 #f55e45, 0 1px 0 rgba(0, 0, 0, 0.15) !important;
+    box-shadow: inset 0 1px 0 #f55e45, 0 1px 0 rgba(0, 0, 0, 0.15) !important
+}
+.redux-section-desc{
+	display:none;
+}
+.redux-container-slides .redux-slides-add {
+    float: left;
+    margin-right: 0px;
+    display: block;
+    margin-bottom: 10px;
+}
+.redux-container input[type=text]:focus, 
+.redux-container input[type=search]:focus, 
+.redux-container input[type=radio]:focus,
+.redux-container input[type=tel]:focus, 
+.redux-container input[type=time]:focus,
+.redux-container input[type=url]:focus, 
+.redux-container input[type=week]:focus,
+.redux-container input[type=password]:focus,
+.redux-container input[type=checkbox]:focus,
+.redux-container input[type=color]:focus,
+.redux-container input[type=date]:focus, 
+.redux-container input[type=datetime]:focus,
+.redux-container input[type=datetime-local]:focus,
+.redux-container input[type=email]:focus, input[type=month]:focus,
+.redux-container input[type=number]:focus, 
+.redux-container select:focus,
+.redux-container textarea:focus {
+    border-color: rgb(228, 228, 228);
+    -webkit-box-shadow:0 0 2px rgb(228, 228, 228);
+    box-shadow: 0 0 2px rgb(228, 228, 228);
+	min-height:35px;
+}
+.redux-sidebar .redux-group-menu li a{
+		font-size:14px;
+	     padding:15px 4px 15px 14px;
+	    border-bottom-color: rgba(111, 111, 111, 0.16);
+	
+}
+.redux-container .form-table td fieldset label,
+.redux-container .form-table td fieldset li, 
+.redux-container .form-table td fieldset p{
+	margin-bottom:10px !important;	
+}
+.redux-container input{
+	min-height:35px;
+	    background-color: #E4E4E4
+}
+.redux-container input[type='checkbox'],
+.redux-container input[type='radio']{
+		min-height:16px !important;
+		
+}
+.redux-container input[type=checkbox]:checked:before{
+	color:#000;
+}
+.redux-main ul.theme-info {
+    background-color: #fff;
+    padding: 20px;
+	  margin-bottom: 0px;
+	  margin-top: 0px;
+}   
+#current-theme h4{ 
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 5px;
+	}
+.redux-main  p.theme-description {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+.redux-main{
+	  background-color: #fff;
+}
+.admin-social{
+	float:right;
+}
+.lawyer_footerlayout_1 img{
+	width:45px !important;
+	height:36px !important;
+	background-image:url('../../images/icons/Footerrow2.jpg')
+}
+.lawyer_footerlayout_2 img{
+	width:45px !important; 
+	height:36px !important;
+	background-image:url('../../images/icons/onlyfooter.jpg')
+}
+.lawyer_footerlayout_3 img{
+	width:45px !important;
+	height:36px !important;
+	background-image:url('../../images/icons/1col.png')
+}
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img,
+.wp-customizer .redux-container-image_select .redux-image-select-selected img {
+    border-color: #f55e45
+}
+.redux-action_bar .button{
+	margin-right:10px;
+}
+#import-code-value{
+	min-height:200px;
+}
+#redux-header .rAds{
+   display:none !important;
+z-index: -99999999;
+}
+.redux-container #redux-footer,
+.redux-main #redux-sticky #info_bar {
+    background-color: rgba(255, 204, 0, .31) !important;
+}
+.redux-container .redux-sidebar{
+    background-color: #23282d;
+}
+#redux-footer #redux-share a{
+    color: #6f6f6f;
+}
+form.redux-form-wrapper {
+    background: #23282d;
+}
